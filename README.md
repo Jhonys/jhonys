@@ -12,7 +12,7 @@ layout: default
 
 ## Armoni
 
-![Armoni](/assets/images/armoni/armoni.jpg)
+![Armoni](/assets/images/game_development/armoni.jpg)
 
 [ITCH.IO](https://jhonysoliveira.itch.io/armoni)
 
