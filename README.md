@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Jhonys Leite de Oliveira ###
 
 # Game Development
@@ -7,6 +11,8 @@
 [ITCH.IO](https://jhonysoliveira.itch.io/shroom-shooter)
 
 ## Armoni
+
+![Armoni](./images/armoni.jpg)
 
 [ITCH.IO](https://jhonysoliveira.itch.io/armoni)
 
