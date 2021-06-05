@@ -25,7 +25,7 @@ Python, SQL, C#, C/C++, C, Java, Matlab, VHDL, Delphi/Pascal
 
 Texas Instruments (Tiva, Stellaris, MSP430, C2000…); LPC1769 NXP; PIC; ATMEGA; RF Modules (ZigBee, ESP8266, BT...); Sensors (Doppler, Acc, Mag, Gyro, GPS, Baro, Ultrasonic, Infrared sensor)
 
-## Participation in the Research and Teaching area:
+## Participation in the Research and Teaching area
 
 4 Scientific and Technological Initiation Projects; Delivering more than 20 extension courses, lectures and workshops at Universities; Volunteer work to disseminate knowledge to children.
 
