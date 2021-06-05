@@ -39,7 +39,7 @@ Texas Instruments (Tiva, Stellaris, MSP430, C2000…); LPC1769 NXP; PIC; ATMEGA;
 
 ### Armoni
 
-<!-- ![Armoni](/assets/assets/images/game_development/armoni.jpg) -->
+![Armoni](/assets/assets/images/game_development/armoni.jpg)
 
 [ITCH.IO](https://jhonysoliveira.itch.io/armoni)
 
