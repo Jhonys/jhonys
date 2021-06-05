@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Jhonys Leite de Oliveira
 
 Engineering and technology are my passions, I live engineering as a lifestyle.
