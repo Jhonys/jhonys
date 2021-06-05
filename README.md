@@ -4,7 +4,7 @@ layout: default
 
 ### Jhonys Leite de Oliveira ###
 
-# Game Development
+<!-- # Game Development
 
 ## Shroom Shooter
 
@@ -18,4 +18,4 @@ layout: default
 
 ## Mystery Island VR AR
 
-[ITCH.IO](https://jhonysoliveira.itch.io/mystery-island)
+[ITCH.IO](https://jhonysoliveira.itch.io/mystery-island) -->
