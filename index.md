@@ -4,6 +4,8 @@ layout: default
 
 # Jhonys Leite de Oliveira
 
+<img src="/assets/images/logo/logo.jpg" alt="drawing" width="200"/>
+
 Engineering and technology are my passions, I live engineering as a lifestyle.
 
 * Master in Electrical Engineering
