@@ -4,7 +4,7 @@ layout: default
 
 ### Jhonys Leite de Oliveira ###
 
-<!-- # Game Development
+# Game Development
 
 ## Shroom Shooter
 
@@ -12,9 +12,9 @@ layout: default
 
 ## Armoni
 
-#<!-- ![Armoni](/assets/assets/images/game_development/armoni.jpg) -->
+<!-- ![Armoni](/assets/assets/images/game_development/armoni.jpg) -->
 
-[ITCH.IO](https://jhonysoliveira.itch.io/armoni)
+<!-- [ITCH.IO](https://jhonysoliveira.itch.io/armoni)
 
 ## Mystery Island VR AR
 
