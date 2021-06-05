@@ -9,13 +9,3 @@ layout: default
 ## Shroom Shooter
 
 [ITCH.IO](https://jhonysoliveira.itch.io/shroom-shooter)
-
-## Armoni
-
-<!-- ![Armoni](/assets/assets/images/game_development/armoni.jpg) -->
-
-<!-- [ITCH.IO](https://jhonysoliveira.itch.io/armoni)
-
-## Mystery Island VR AR
-
-[ITCH.IO](https://jhonysoliveira.itch.io/mystery-island) -->
