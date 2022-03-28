@@ -13,7 +13,7 @@ layout: default
 Engineering and technology are my passions, I live engineering as a lifestyle.
 
 
-| [LinkedIn](https://www.linkedin.com/in/jhonysoliveira) | [Gmail](jhonys.oliveira@gmail.com) |
+| [LinkedIn](https://www.linkedin.com/in/jhonysoliveira) | [Gmail](mailto:jhonys.oliveira@gmail.com) |
 
 
 
