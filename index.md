@@ -83,6 +83,8 @@ My own projects, like Drones, 3D printed, Cars...
 
 #### Shroom Shooter
 
+![Shroom Shooter](/assets/images/game_development/shroom.png)
+
 [ITCH.IO](https://jhonysoliveira.itch.io/shroom-shooter)
 
 ### Armoni
