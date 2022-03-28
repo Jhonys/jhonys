@@ -57,7 +57,7 @@ I have applied knowledge about several technologies, with engineering projects, 
 
 ## Portfolio
 
-[Author's portfolio](www.youtube.com/user/JhonysOliveira), with more than 65 different projects
+[Author's portfolio](https://www.youtube.com/user/JhonysOliveira), with more than 65 different projects
 
 ### Robotics
 
