@@ -4,9 +4,15 @@ layout: default
 
 # Jhonys Leite de Oliveira
 
-<img src="/assets/images/logo/logo.jpg" alt="drawing" width="200"/>
+![Engineering is my love, I breathe and live innovation](/assets/images/outras/jhonys_perfil.jpeg)
+
+<!-- <img src="/assets/images/outras/jhonys_perfil.jpeg" alt="drawing" width="200"/>
+
+<img src="/assets/images/logo/logo.jpg" alt="drawing" width="200"/> -->
 
 Engineering and technology are my passions, I live engineering as a lifestyle.
+
+## Academic Background
 
 * Master in Electrical Engineering
 * Computer Engineer
@@ -19,9 +25,22 @@ Apps Mobile VR and AR,
 Firmwares development, Robotics (Building Drones, 3D Printer...) IoT, Hardware knowledge,
 Google Cloud Plataform
 
+| Field | Frameworks / Technologies |
+|:---------|:-------------|
+| Machine Learning | Computer Vision, NLP, Regression |
+| Apps Mobile | VR, AR, Game Development |
+
 ## Software Skills
 
-Python, SQL, C#, C/C++, C, Java, Matlab, VHDL, Delphi/Pascal
+| Language |
+|:-------------|
+| Python|
+| C/C++|
+| C# |
+| Java |
+| SQL |
+| Matlab |
+| Delphi/Pascal |
 
 ## High knowledge in IoT, Firmware, Sensors and hardware development
 
