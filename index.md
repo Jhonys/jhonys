@@ -12,49 +12,76 @@ layout: default
 
 Engineering and technology are my passions, I live engineering as a lifestyle.
 
+
+| [LinkedIn](https://www.linkedin.com/in/jhonysoliveira) | [Gmail](jhonys.oliveira@gmail.com) |
+
+
+
+
 ## Academic Background
 
 * Master in Electrical Engineering
 * Computer Engineer
 * Several courses like “Data Engineering, Big Data and Machine Learning on GCP” by Google Coursera.
 
-## Experience with R&D projects in
+## High knowledge and experience
 
-Machine Learning (Tensorflow, Keras...) , Data Engineering, Big Data, Computer Vision (OpenCV...),
-Apps Mobile VR and AR,
-Firmwares development, Robotics (Building Drones, 3D Printer...) IoT, Hardware knowledge,
-Google Cloud Plataform
+I have applied knowledge about several technologies, with engineering projects, research and development, PoC, MVP and more.
 
-| Field | Frameworks / Technologies |
+| Technology | Sub-areas |
 |:---------|:-------------|
-| Machine Learning | Computer Vision, NLP, Regression |
-| Apps Mobile | VR, AR, Game Development |
+| Machine Learning | Computer Vision, NLP, Regression, MLOps |
+| Cloud development | Google Cloud Platform, Azure |
+| IoT & Embedded Systems | Projects with Arduino, Tiva, MSP430, NXP, PIC, ESP8266, Custom Hardware |
+| Robotic | Drones, Robotic Arm, 3D printer, RC Cars, Autonomous |
+| Apps Mobile | VR, AR, Game Development, iOS, Android |
+| Sensors | IoT with Doppler, Acc, Mag, Gyro, Baro, Ultrasonic, Infrared sensor |
+| Scalable projects | Pipelines, Cloud, ELT, Big Data... |
+
 
 ## Software Skills
 
-| Language |
-|:-------------|
-| Python|
-| C/C++|
-| C# |
-| Java |
-| SQL |
-| Matlab |
-| Delphi/Pascal |
-
-## High knowledge in IoT, Firmware, Sensors and hardware development
-
-Texas Instruments (Tiva, Stellaris, MSP430, C2000…); LPC1769 NXP; PIC; ATMEGA; RF Modules (ZigBee, ESP8266, BT...); Sensors (Doppler, Acc, Mag, Gyro, GPS, Baro, Ultrasonic, Infrared sensor)
+| Language | Framework or correlated projects |
+|:---------|:---------| 
+| Python| Tensorflow, Keras, IoT, Flask, Fast Api |
+| C/C++| OpenCV, Real time Machine Learning |
+| C# | Mobile, PC, Unity, Game Development, Xamarin |
+| Java | Mobile, PC, Spring Boot |
+| SQL | Database |
+| Matlab | Research experiments, Numerical optimization |
 
 ## Participation in the Research and Teaching area
 
-4 Scientific and Technological Initiation Projects; Delivering more than 20 extension courses, lectures and workshops at Universities; Volunteer work to disseminate knowledge to children.
+* 4 Scientific and Technological Initiation Projects;
+* Delivering more than 20 extension courses, lectures and workshops at Universities; Volunteer work to disseminate knowledge to children.
+
+## Portfolio
 
 [Author's portfolio](www.youtube.com/user/JhonysOliveira), with more than 65 different projects
 
-## Game Development
+### Robotics
 
-### Shroom Shooter
+My own projects, like Drones, 3D printed, Cars... 
+![Many projects](/assets/images/outras/projetos_na_mesa.jpg)
+
+
+#### **1st place by Google**
+ in the development game with Best Business Plan, at the Global Game Jam 2021 CWB, which goal was to create a game in 48 hours and develop a business plan to become profitable, also evaluating innovation, in which around 500 people participated.
+
+![Google awards](/assets/images/outras/google_awards.jpg)
+
+#### Robotic Arm
+
+![Robotic Arm](/assets/images/outras/robotic_arm.jpg)
+
+#### Robots
+
+![Robots](/assets/images/outras/robotic_3.jpg)
+
+
+### Game Development
+
+#### Shroom Shooter
 
 [ITCH.IO](https://jhonysoliveira.itch.io/shroom-shooter)
 
@@ -65,5 +92,7 @@ Texas Instruments (Tiva, Stellaris, MSP430, C2000…); LPC1769 NXP; PIC; ATMEGA;
 [ITCH.IO](https://jhonysoliveira.itch.io/armoni)
 
 ### Mystery Island VR AR
+
+![Armoni](/assets/images/game_development/mystery_island_ar.jpg)
 
 [ITCH.IO](https://jhonysoliveira.itch.io/mystery-island)
