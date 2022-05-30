@@ -80,15 +80,15 @@ My own projects, like Drones, 3D printed, Cars...
 
 #### RC Car
 
-<!-- ![RC Car](/assets/images/outras/rc_car.jpg) -->
+![RC Car](/assets/images/outras/rc_car.jpg)
 
-<img src="/assets/images/outras/rc_car.jpg" alt="RC Car" width="180"/>
+<!-- <img src="/assets/images/outras/rc_car.jpg" alt="RC Car" width="300"/> -->
 
 ### Game Development
 
 #### [Shroom Shooter](https://jhonysoliveira.itch.io/shroom-shooter)
 
-<img src="/assets/images/game_development/shroom.png" alt="Shroom Shooter" width="180"/>
+<img src="/assets/images/game_development/shroom.png" alt="Shroom Shooter" width="200"/>
 
 <!-- ![Shroom Shooter](/assets/images/game_development/shroom.png) -->
 
