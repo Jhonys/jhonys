@@ -78,23 +78,30 @@ My own projects, like Drones, 3D printed, Cars...
 
 ![Robots](/assets/images/outras/robotic_3.jpg)
 
+#### RC Car
+
+<!-- ![RC Car](/assets/images/outras/rc_car.jpg) -->
+
+<img src="/assets/images/outras/rc_car.jpg" alt="RC Car" width="180"/>
 
 ### Game Development
 
-#### Shroom Shooter
+#### [Shroom Shooter](https://jhonysoliveira.itch.io/shroom-shooter)
 
-![Shroom Shooter](/assets/images/game_development/shroom.png)
+<img src="/assets/images/game_development/shroom.png" alt="Shroom Shooter" width="180"/>
 
-[ITCH.IO](https://jhonysoliveira.itch.io/shroom-shooter)
+<!-- ![Shroom Shooter](/assets/images/game_development/shroom.png) -->
 
-### Armoni
+<!-- [ITCH.IO](https://jhonysoliveira.itch.io/shroom-shooter) -->
+
+### [Armoni](https://jhonysoliveira.itch.io/armoni)
 
 ![Armoni](/assets/images/game_development/armoni.jpg)
 
-[ITCH.IO](https://jhonysoliveira.itch.io/armoni)
+<!-- [ITCH.IO](https://jhonysoliveira.itch.io/armoni) -->
 
-### Mystery Island VR AR
+### [Mystery Island VR AR](https://jhonysoliveira.itch.io/mystery-island)
 
 ![Armoni](/assets/images/game_development/mystery_island_ar.jpg)
 
-[ITCH.IO](https://jhonysoliveira.itch.io/mystery-island)
+<!-- [ITCH.IO](https://jhonysoliveira.itch.io/mystery-island) -->
