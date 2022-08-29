@@ -30,7 +30,7 @@ I have applied knowledge about several technologies, with engineering projects, 
 
 | Technology | Sub-areas |
 |:---------|:-------------|
-| Machine Learning | Computer Vision, NLP, Regression, MLOps |
+| Machine Learning | Computer Vision, NLP, Regression, MLOps, Synthetic Data |
 | Cloud development | Google Cloud Platform, Azure |
 | IoT & Embedded Systems | Projects with Arduino, Tiva, MSP430, NXP, PIC, ESP8266, Custom Hardware |
 | Robotic | Drones, Robotic Arm, 3D printer, RC Cars, Autonomous |
@@ -99,9 +99,7 @@ My own projects, like Drones, 3D printed, Cars...
 Synthetic data, the system generates the annotations and images in real-time, saves the time of labeling data, and can make it easier to add rare categories in an environment, greatly enhancing Machine Learning training.
 System output is a labeled image, with bounded box and segmented image.
 
-![Synthetic Data](/assets/images/data_synthetic/gif_data_synthetic.gif)
-
-![Synthetic Data](/assets/images/data_synthetic/data_mosaic.png)
+<img src="/assets/images/data_synthetic/gif_data_synthetic.gif" alt="Synthetic Data" width="100%"/>
 
 ### [Armoni](https://jhonysoliveira.itch.io/armoni)
 
