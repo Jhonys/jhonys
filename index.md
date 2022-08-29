@@ -64,16 +64,6 @@ I have applied knowledge about several technologies, with engineering projects, 
 My own projects, like Drones, 3D printed, Cars... 
 ![Many projects](/assets/images/outras/projetos_na_mesa.jpg)
 
-
-#### **1st place by Google**
- in the development game with Best Business Plan, at the Global Game Jam 2021 CWB, which goal was to create a game in 48 hours and develop a business plan to become profitable, also evaluating innovation, in which around 500 people participated.
-
-![Google awards](/assets/images/outras/google_awards.jpg)
-
-#### Robotic Arm
-
-![Robotic Arm](/assets/images/outras/robotic_arm.jpg)
-
 #### Robots
 
 ![Robots](/assets/images/outras/robotic_3.jpg)
@@ -86,6 +76,19 @@ My own projects, like Drones, 3D printed, Cars...
 
 <!-- <img src="/assets/images/outras/rc_car.jpg" alt="RC Car" width="300"/> -->
 
+#### Robotic Arm
+
+![Robotic Arm](/assets/images/outras/robotic_arm.jpg)
+
+### Synthetic Data
+
+<img src="/assets/images/data_synthetic/gif_data_synthetic.gif" alt="Synthetic Data" width="100%"/>
+
+#### **1st place by Google**
+ in the development game with Best Business Plan, at the Global Game Jam 2021 CWB, which goal was to create a game in 48 hours and develop a business plan to become profitable, also evaluating innovation, in which around 500 people participated.
+
+![Google awards](/assets/images/outras/google_awards.jpg)
+
 ### Game Development
 
 #### [Shroom Shooter](https://jhonysoliveira.itch.io/shroom-shooter)
@@ -95,13 +98,6 @@ My own projects, like Drones, 3D printed, Cars...
 <!-- ![Shroom Shooter](/assets/images/game_development/shroom.png) -->
 
 <!-- [ITCH.IO](https://jhonysoliveira.itch.io/shroom-shooter) -->
-
-### Synthetic Data
-
-Synthetic data, the system generates the annotations and images in real-time, saves the time of labeling data, and can make it easier to add rare categories in an environment, greatly enhancing Machine Learning training.
-System output is a labeled image, with bounded box and segmented image.
-
-<img src="/assets/images/data_synthetic/gif_data_synthetic.gif" alt="Synthetic Data" width="100%"/>
 
 ### [Armoni](https://jhonysoliveira.itch.io/armoni)
 
