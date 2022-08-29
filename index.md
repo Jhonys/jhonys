@@ -78,6 +78,8 @@ My own projects, like Drones, 3D printed, Cars...
 
 ![Robots](/assets/images/outras/robotic_3.jpg)
 
+<img src="/assets/images/outras/robot_multifunctional.gif" alt="Multifunction" width="100%"/>
+
 #### RC Car
 
 ![RC Car](/assets/images/outras/rc_car.jpg)
