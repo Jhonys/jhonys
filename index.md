@@ -70,6 +70,8 @@ My own projects, like Drones, 3D printed, Cars...
 
 <img src="/assets/images/outras/robot_multifunctional.gif" alt="Multifunction" width="100%"/>
 
+[AI Robot - Youtube](https://youtu.be/kFg_EnYmgLE)
+
 #### RC Car
 
 ![RC Car](/assets/images/outras/rc_car.jpg)
