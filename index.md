@@ -70,7 +70,7 @@ My own projects, like Drones, 3D printed, Cars...
 
 <img src="/assets/images/outras/robot_multifunctional.gif" alt="Multifunction" width="100%"/>
 
-[AI Robot - Youtube](https://youtu.be/kFg_EnYmgLE)
+[AI Robot - Youtube](https://www.youtube.com/watch?v=kFg_EnYmgLE&list=PLeYqRMQe6D0VYGzgwbEZp5qZJ_vyRiPhr&index=1&ab_channel=JhonysOliveira)
 
 #### RC Car
 
