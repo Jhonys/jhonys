@@ -94,6 +94,15 @@ My own projects, like Drones, 3D printed, Cars...
 
 <!-- [ITCH.IO](https://jhonysoliveira.itch.io/shroom-shooter) -->
 
+### Synthetic Data
+
+Synthetic data, the system generates the annotations and images in real-time, saves the time of labeling data, and can make it easier to add rare categories in an environment, greatly enhancing Machine Learning training.
+System output is a labeled image, with bounded box and segmented image.
+
+![Synthetic Data](/assets/images/data_synthetic/gif_data_synthetic.gif)
+
+![Synthetic Data](/assets/images/data_synthetic/data_mosaic.png)
+
 ### [Armoni](https://jhonysoliveira.itch.io/armoni)
 
 ![Armoni](/assets/images/game_development/armoni.jpg)
